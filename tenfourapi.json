@@ -1,7 +1,7 @@
 {
     "xiaofeng472": {
         "url": "https://www.30jili.ph/?a=1013",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
          "countryCodes": ["PH","LA"],
         "adjustParams": [
@@ -73,7 +73,7 @@
     },
     "xiaofeng474": {
         "url": "https://www.30jili.ph/?a=1013",
-        "isToPage": true,
+        "isToPage": false,
         "countryCodes": ["PH","LA"],
         "isAlert": false,
         "adjustParams": [
@@ -109,7 +109,7 @@
     },
     "xiaofeng476": {
         "url": "https://www.30jili.ph/?a=1013",
-        "isToPage": true,
+        "isToPage": false,
         "countryCodes": ["PH","LA"],
         "isAlert": true,
         "adjustParams": [
