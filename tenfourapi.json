@@ -111,7 +111,7 @@
         "url": "https://www.30jili.ph/?a=1013",
         "isToPage": true,
         "countryCodes": ["PH","LA"],
-        "isAlert": true,
+        "isAlert": false,
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -146,7 +146,7 @@
     "xiaofeng477": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
         "isToPage": false,
-        "isAlert": true,
+        "isAlert": false,
         "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
             {
